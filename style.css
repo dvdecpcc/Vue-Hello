@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Crimson Text', serif;
+}
+
+.mainContent{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textCenter{
+    text-align: center;
+    color: rgb(95, 0, 0);
+    font-size: 3rem;
+}
+
+.vwVh{
+    width: 100vw;
+    height: 100vh;
+}
