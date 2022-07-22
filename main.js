@@ -4,9 +4,9 @@ var app = new Vue (
         data: {
             message: 'Hieronymus Bosch',
             container: 'mainContent',
-            img01: 's-bosch.jpeg',
+            img01: 's-bosch.jpg',
             center: 'textCenter',
-            bosch: 'vwVh'
+            bosch: 'w_h'
         }
     }
 );

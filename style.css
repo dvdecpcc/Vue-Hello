@@ -15,11 +15,12 @@
 
 .textCenter{
     text-align: center;
-    color: rgb(95, 0, 0);
+    color: rgb(0, 0, 0);
     font-size: 3rem;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
 
-.vwVh{
-    width: 100vw;
-    height: 100vh;
+.w_h{
+    width: 60vw;
 }
